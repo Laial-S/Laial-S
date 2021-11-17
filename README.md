@@ -1,4 +1,4 @@
-### Hi there 👋
+![background linkedin](https://user-images.githubusercontent.com/86334859/142274073-0617c405-3e25-401d-8ad8-ffb30739047b.png)
 
 <!--
 **Laial-S/Laial-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
