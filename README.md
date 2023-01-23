@@ -2,7 +2,7 @@
 
 # Who am I and What do I do? #
 
-  **I'm a Full stack developer and actress.** I found art in programation and a way to create creative solutions. I love new challenges and specially if there are many differents ways to resolve them. I look up to help people to have an easier life generating clever solutions to their problems, using my whole knowledge and my experience as developer.
+  **I'm a Front end developer and actress.** I found art in programation and a way to create creative solutions. I love new challenges and specially if there are many differents ways to resolve them. I look up to help people to have an easier life generating clever solutions to their problems, using my whole knowledge and my experience as developer.
   
   
   
